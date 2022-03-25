@@ -6,7 +6,7 @@
 #'
 #' @return pointblank interrogated data.
 #' @export
-#' jchen modification test6
+#' jchen modification test7
 
 val_names <- function(x, expected, ...) {
   agent <- pointblank::create_agent(
