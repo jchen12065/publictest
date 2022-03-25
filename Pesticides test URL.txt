@@ -1,8 +1,0 @@
-
-
-dev test server:  http://decdev.dec.state.ny.us/productadmin/
-
-test tier product module: https://dectest.dec.state.ny.us/productadmin/ 
-test tier bus/certification module: https://dectest.dec.state.ny.us/pestadmin/
-production product module: https://internal1.dec.state.ny.us/productadmin/home?0
-production bus/certification module: https://internal1.dec.state.ny.us/pestadmin/home?0
